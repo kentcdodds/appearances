@@ -2,6 +2,8 @@
 
 This is a list of podcasts, interviews, and other places that I've had chats and stuff (starting from most recent).
 
+You might also be interested in my [talks](https://github.com/kentcdodds/talks).
+
 ## Podcasts
 
 I'm the host of a few podcasts myself, so I wont include any of those (hundreds?) of episodes I'm on. Those podcasts are [AngularAir](http://angularair.com/), [JavaScriptAir](https://javascriptair.com), [3 minutes with Kent](https://www.briefs.fm/3-minutes-with-kent), [React30](https://react30.com/). Here are the other podcasts that I've been on:
