@@ -8,6 +8,7 @@ You might also be interested in my [talks](https://github.com/kentcdodds/talks).
 
 I'm the host of a few podcasts myself, so I wont include any of those (hundreds?) of episodes I'm on. Those podcasts are [AngularAir](http://angularair.com/), [JavaScriptAir](https://javascriptair.com), [3 minutes with Kent](https://www.briefs.fm/3-minutes-with-kent), [React30](https://react30.com/). Here are the other podcasts that I've been on:
 
+- [Dads in Development](http://www.dadsindev.com/): [Episode 12: CSS Modules](http://www.dadsindev.com/12) (and CSS in JS)
 - [Career.js](http://careerjs.com/): [Ep. 3 - How to Level Up Your Career with Kent C. Dodds](http://careerjs.com/#/3)
 - [This Developing Story](http://developingstory.netlify.com/): [Kent C. Dodds](http://developingstory.netlify.com/tds-56-kent-c-dodds)
 - [The Web Behind](https://webbehind.com): [Kent C. Dodds](https://webbehind.com/episode-2-kent-c-dodds/)
