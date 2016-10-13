@@ -22,6 +22,12 @@ I'm the host of a few podcasts myself, so I wont include any of those (hundreds?
 - [Modern Web Podcast](http://www.modern-web.org/): [O'Reilly FluentConf 2016 - JavaScript 2016 and The "Good 'Ol Days" of the Internet (Part 2 of 2)](https://www.youtube.com/watch?v=rMbL1w-Bby4)
 - [O'Reilly Media](https://www.youtube.com/user/OreillyMedia): [Interview with Kent C. Dodds (O'Reilly Fluent Conference 2016)](https://www.youtube.com/watch?v=7O2dpgNoY4M)
 
+## Blogposts
+
+- [Digital Inclusion and Accessibility: Top 100 Influencers and Brands](http://www.onalytica.com/blog/posts/digital-inclusion-accessibility-top-100-influencers-brands/) (I'm #29)
+- [Tips from a software engineer for a balanced life](https://opensource.com/business/16/10/all-things-open-interview-kent-c-dodds)
+- [41 JavaScript experts to follow on Twitter](http://techbeacon.com/javascript-leaders-you-should-follow-twitter)
+
 ## Other
 
 ### Ask Me Anything
